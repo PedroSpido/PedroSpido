@@ -1,5 +1,5 @@
 ### Olá, me chamo Pedro Spido! 👨‍💻
-Estudei algumas linguagens de programação como: C, Java, JavaScript, HTML, CSS e PHP <br/>
+Estudei algumas linguagens de programação como: C, Java, JavaScript, HTML, CSS e PHP. <br/>
 Possuo formação em C e atualmente estou completando minha formação em Java! <br/>
 ### Meus contatos:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-spido-134b6021a/)
