@@ -7,9 +7,9 @@ Meu portifólio: https://pedrospido.github.io/portifoliopedro/
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:pedrospido@hotmail.com)
 
 <div>
-  <a href="https://github.com/PedroSpido">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroSpido&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSpido&layout=compact&langs_count=7&theme=outrun"/>
+  <a href="https://github.com/pedrospido">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrospido&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrospido&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
 ### Tecnologias que utilizo:
