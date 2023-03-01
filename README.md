@@ -8,7 +8,7 @@ Meu portifólio: https://pedrospido.github.io/portifoliopedro/
 
 <div>
   <a href="https://github.com/pedrospido">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedrospido&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrospido&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrospido&layout=compact&langs_count=7&theme=outrun"/>
 </div>
 
